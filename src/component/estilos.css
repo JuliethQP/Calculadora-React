@@ -1,6 +1,7 @@
 .pantalla {
-    background-color: black;
+    background-color: white;
     width: 200px;
+   
 }
 .contenedor{
     background-color: black;
@@ -10,4 +11,7 @@
     padding-bottom: 20px;
     padding-top: 10px;
     
+}
+.letras{
+    text-align: center;
 }
