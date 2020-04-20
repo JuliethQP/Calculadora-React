@@ -1,0 +1,13 @@
+.pantalla {
+    background-color: black;
+    width: 200px;
+}
+.contenedor{
+    background-color: black;
+    border-color: white;
+    width: 350px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    
+}
